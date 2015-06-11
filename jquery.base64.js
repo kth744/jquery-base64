@@ -1,9 +1,11 @@
-/*jslint adsafe: false, bitwise: true, browser: true, cap: false, css: false,
+/*
+  jslint adsafe: false, bitwise: true, browser: true, cap: false, css: false,
   debug: false, devel: true, eqeqeq: true, es5: false, evil: false,
   forin: false, fragment: false, immed: true, laxbreak: false, newcap: true,
   nomen: false, on: false, onevar: true, passfail: false, plusplus: true,
   regexp: false, rhino: true, safe: false, strict: false, sub: false,
-  undef: true, white: false, widget: false, windows: false */
+  undef: true, white: false, widget: false, windows: false 
+*/
 /*global jQuery: false, window: false */
 "use strict";
 
